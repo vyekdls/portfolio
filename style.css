@@ -48,6 +48,7 @@ body {
 #main_gnb li a {
     display: block;
     padding: 5px;
+    color: #000;
 }
 #main_gnb li a:hover {
     background: #000;
@@ -81,6 +82,7 @@ color: #FF5E00;
     margin-top: 50px;
     font-weight: 500;
 }
+
 
 #about{
     margin: 0 auto;
